@@ -5,3 +5,4 @@ echo $(ifconfig)
 echo ";;"
 # Gives the details 
 echo "Gives the user in the name as wel in the king of th"
+#get ip of in the onfig
